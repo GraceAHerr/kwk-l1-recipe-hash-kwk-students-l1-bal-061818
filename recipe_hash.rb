@@ -61,4 +61,3 @@ end
 def number_ingredients(perfect_10_recipe)
   puts perfect_10_recipe.size
 end
-
