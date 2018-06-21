@@ -2,13 +2,12 @@
 perfect_10_recipe = {
   :almond_flour => 2 cups
   :gluten_freewhole_oats =>1 cup
- kosher salt - 1/2 tea spoon
-  :baking_powder  =>1/2 tea spoon
+  :baking_powder  => 1/2 tea spoon
   :baking_soda =>1/4 tea spoon
   :Xanthan_Gum =>1/2 tea spoon
   :slivered_almonds_lightly toasted => 1/4 cup
   :mini_dark_chocolate_chips => 3/4 cup
-  :olive_oil =>1/2 cup
+  :olive_oil => 1/2 cup
   :agave => 1/4 cup
 }
 #1. Create a hash called `perfect_10_recipe` that has the following data:
