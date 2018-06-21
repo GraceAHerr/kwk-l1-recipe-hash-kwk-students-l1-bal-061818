@@ -25,6 +25,9 @@ def recipe_ingredients(perfect_10_recipe)
   return :mini_dark_chocolate_chips => "3/4 cup"
   return :olive_oil => "1/2 cup"
   return :agave => "1/4 cup"
+end
+
+return recipe_ingredients
 
 #2: Write code that returns the amount of chocolate chips from perfect_10 ingredients that is needed in the recipe.
 def amount_of_chocolate_chips(perfect_10_recipe)
