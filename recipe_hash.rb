@@ -1,31 +1,31 @@
-#code your solutions here
-# perfect_10_recipe = {
-#   :almond_flour => "2 cups"
-#   :gluten_freewhole_oats => "1 cup"
-#   :baking_powder  => "1/2 tea spoon"
-#   :baking_soda => "1/4 tea spoon"
-#   :Xanthan_Gum => "1/2 tea spoon"
-#   :slivered_almonds_lightly_toasted => "1/4 cup"
-#   :mini_dark_chocolate_chips => "3/4 cup"
-#   :olive_oil => "1/2 cup"
-#   :agave => "1/4 cup"
-# }
-#1. Create a hash called `perfect_10_recipe` that has the following data:
+
+perfect_10_recipe = {
+  :almond_flour => "2 cups"
+  :gluten_freewhole_oats => "1 cup"
+  :baking_powder  => "1/2 tea spoon"
+  :baking_soda => "1/4 tea spoon"
+  :Xanthan_Gum => "1/2 tea spoon"
+  :slivered_almonds_lightly_toasted => "1/4 cup"
+  :mini_dark_chocolate_chips => "3/4 cup"
+  :olive_oil => "1/2 cup"
+  :agave => "1/4 cup"
+}
+# 1. Create a hash called `perfect_10_recipe` that has the following data:
 
 
 
-#2. Write a method that simply returns (not puts) your perfect_10 hash
-# def recipe_ingredients = {
-#     :almond_flour => "2 cups",
-#     :gluten_freewhole_oats => "1 cup",
-#     :baking_powder  => "1/2 tea spoon",
-#     :baking_soda => "1/4 tea spoon",
-#     :Xanthan_Gum => "1/2 tea spoon",
-#     :slivered_almonds_lightly_toasted => "1/4 cup",
-#     :mini_dark_chocolate_chips => "3/4 cup",
-#     :olive_oil => "1/2 cup",
-#     :agave => "1/4 cup"
-# }
+# 2. Write a method that simply returns (not puts) your perfect_10 hash
+def recipe_ingredients = {
+    :almond_flour => "2 cups",
+    :gluten_freewhole_oats => "1 cup",
+    :baking_powder  => "1/2 tea spoon",
+    :baking_soda => "1/4 tea spoon",
+    :Xanthan_Gum => "1/2 tea spoon",
+    :slivered_almonds_lightly_toasted => "1/4 cup",
+    :mini_dark_chocolate_chips => "3/4 cup",
+    :olive_oil => "1/2 cup",
+    :agave => "1/4 cup"
+}
 #
 
 #2: Write code that returns the amount of chocolate chips from perfect_10 ingredients that is needed in the recipe.
