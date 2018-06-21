@@ -53,14 +53,6 @@ def amounts(perfect_10_recipe)
 end
 
 #6: Return the number of ingredients in the `perfect_10_recipe` hash.
-def number_ingredients = {
-  :almond_flour => "2 cups",
-  :gluten_freewhole_oats => "1 cup",
-  :baking_powder  => "1/2 tea spoon",
-  :baking_soda => "1/4 tea spoon",
-  :Xanthan_Gum => "1/2 tea spoon",
-  :slivered_almonds_lightly_toasted => "1/4 cup",
-  :mini_dark_chocolate_chips => "3/4 cup",
-  :olive_oil => "1/2 cup",
-  :agave => "1/4 cup"
+def number_ingredients(per)
+  puts perfect_10_recipe.size
 }
