@@ -25,6 +25,7 @@ def recipe_ingredients(perfect_10_recipe)
   return :mini_dark_chocolate_chips => "3/4 cup"
   return :olive_oil => "1/2 cup"
   return :agave => "1/4 cup"
+  end
 end
 
 return recipe_ingredients
