@@ -15,7 +15,7 @@
 
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
-def recipe_ingredients ={
+def recipe_ingredients {
     :almond_flour => "2 cups",
     :gluten_freewhole_oats => "1 cup",
     :baking_powder  => "1/2 tea spoon",
