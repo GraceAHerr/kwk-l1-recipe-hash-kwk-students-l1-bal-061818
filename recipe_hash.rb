@@ -15,18 +15,17 @@
 
 
 #2. Write a method that simply returns (not puts) your perfect_10 hash
-def recipe_ingredients(perfect_10_recipe)
-  return :almond_flour => "2 cups"
-  return :gluten_freewhole_oats => "1 cup"
-  return :baking_powder  => "1/2 tea spoon"
-  return :baking_soda => "1/4 tea spoon"
-  return :Xanthan_Gum => "1/2 tea spoon"
-  return :slivered_almonds_lightly_toasted => "1/4 cup"
-  return :mini_dark_chocolate_chips => "3/4 cup"
-  return :olive_oil => "1/2 cup"
+def recipe_ingredients = {
+  return :almond_flour => "2 cups",
+  return :gluten_freewhole_oats => "1 cup",
+  return :baking_powder  => "1/2 tea spoon",
+  return :baking_soda => "1/4 tea spoon",
+  return :Xanthan_Gum => "1/2 tea spoon",
+  return :slivered_almonds_lightly_toasted => "1/4 cup",
+  return :mini_dark_chocolate_chips => "3/4 cup",
+  return :olive_oil => "1/2 cup",
   return :agave => "1/4 cup"
-  end
-end
+}
 
 return recipe_ingredients
 
